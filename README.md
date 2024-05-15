@@ -1,2 +1,1 @@
-# chroma
-A general purpose syntax highlighter in pure Go
+This is bug bounty Hackerone test
